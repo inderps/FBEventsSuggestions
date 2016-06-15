@@ -1,0 +1,3 @@
+rootProject.name = 'FBEventsSuggestions'
+
+include ':app'
